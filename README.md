@@ -1,7 +1,6 @@
 # Microservice application using Go
 
 Web application that connects to 5 microservices
-using
 
 ## Functionality:
 - Receiving requests from front-end
