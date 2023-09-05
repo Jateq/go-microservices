@@ -4,7 +4,7 @@ Web application that connects to 5 microservices.
 
 ### How to run:
 
-Front-end: go run ./front-end/cmd/web
+Front-end: go run ./cmd/web
 
 ## Functionality:
 - Receiving requests from front-end
