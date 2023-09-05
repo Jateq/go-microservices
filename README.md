@@ -1,6 +1,10 @@
 # Microservice application using Go
 
-Web application that connects to 5 microservices
+Web application that connects to 5 microservices.
+
+### How to run:
+
+Front-end: go run ./front-end/cmd/web
 
 ## Functionality:
 - Receiving requests from front-end
