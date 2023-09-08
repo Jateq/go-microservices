@@ -2,11 +2,6 @@
 
 Web application that connects to 5 microservices.
 
-### How to run:
-
-front-end: go run ./cmd/web
-
-broker: go run ./cmd/web
 
 ## Functionality:
 - Receiving requests from front-end
